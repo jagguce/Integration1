@@ -7,7 +7,7 @@ public class add {
 		int a=10,b=15,total;
 		total=a+b;
 		System.out.println("sum is "+total);
-                System.out.println(" ");
+                System.out.println("bye ");
 	}
 
 }
